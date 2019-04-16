@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using DomainModeling.Core;
-using DomainModeling.Core.Interfaces;
-using DomainModeling.EventSourcing;
+using Slick.Net.Core;
+using Slick.Net.Core.Interfaces;
+using Slick.Net.EventSourcing;
 
 namespace Questionable.Questions.Test.Unit
 {

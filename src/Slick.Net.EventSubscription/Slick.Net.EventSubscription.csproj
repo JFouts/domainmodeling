@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Slick.Net.Core\Slick.Net.Core.csproj" />
+    <ProjectReference Include="..\Slick.Net.EventRepository\Slick.Net.EventRepository.csproj" />
+  </ItemGroup>
+
+</Project>

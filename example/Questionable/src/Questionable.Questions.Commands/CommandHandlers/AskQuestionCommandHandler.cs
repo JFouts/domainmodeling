@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using DomainModeling.Core.Interfaces;
-using DomainModeling.Core.Utilities.Interfaces;
-using DomainModeling.EventSourcing;
+using Slick.Net.Core.Interfaces;
+using Slick.Net.Core.Utilities.Interfaces;
+using Slick.Net.EventSourcing;
 using Questionable.Questions.Aggregates;
 using Questionable.Questions.Commands.Commands;
 using Questionable.Questions.Commands.Exceptions.Domain;

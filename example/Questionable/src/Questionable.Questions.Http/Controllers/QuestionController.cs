@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using System.Threading.Tasks;
 using AutoMapper;
-using DomainModeling.Core.Exceptions;
-using DomainModeling.Core.Interfaces;
+using Slick.Net.Core.Exceptions;
+using Slick.Net.Core.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Questionable.Questions.Commands.Commands;
 using Questionable.Questions.Http.Controllers.Dto;

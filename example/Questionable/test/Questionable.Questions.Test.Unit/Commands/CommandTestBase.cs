@@ -1,7 +1,7 @@
 using System;
-using DomainModeling.Core;
-using DomainModeling.Core.Interfaces;
-using DomainModeling.Core.Utilities.Interfaces;
+using Slick.Net.Core;
+using Slick.Net.Core.Interfaces;
+using Slick.Net.Core.Utilities.Interfaces;
 using Moq;
 
 namespace Questionable.Questions.Test.Unit.Commands

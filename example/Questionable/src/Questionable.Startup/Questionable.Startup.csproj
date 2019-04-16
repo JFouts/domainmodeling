@@ -9,19 +9,19 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.Core\DomainModeling.Core.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventRepository.EventStore.AspNetCore\DomainModeling.EventRepository.EventStore.AspNetCore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventRepository.EventStore\DomainModeling.EventRepository.EventStore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventRepository.LocalMemory.AspNetCore\DomainModeling.EventRepository.LocalMemory.AspNetCore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventRepository.LocalMemory\DomainModeling.EventRepository.LocalMemory.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventRepository\DomainModeling.EventRepository.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventSourcing.AspNetCore\DomainModeling.EventSourcing.AspNetCore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventSourcing\DomainModeling.EventSourcing.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventSubscription.AspNetCore\DomainModeling.EventSubscription.AspNetCore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventSubscription.EventStore.AspNetCore\DomainModeling.EventSubscription.EventStore.AspNetCore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventSubscription.EventStore\DomainModeling.EventSubscription.EventStore.csproj" />
-    <ProjectReference Include="..\..\..\..\src\DomainModeling.EventSubscription\DomainModeling.EventSubscription.csproj" />
-    <ProjectReference Include="..\..\..\..\test\DomainModeling.Core.Test.Unit\DomainModeling.Core.Test.Unit.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.Core\Slick.Net.Core.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventRepository.EventStore.AspNetCore\Slick.Net.EventRepository.EventStore.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventRepository.EventStore\Slick.Net.EventRepository.EventStore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventRepository.LocalMemory.AspNetCore\Slick.Net.EventRepository.LocalMemory.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventRepository.LocalMemory\Slick.Net.EventRepository.LocalMemory.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventRepository\Slick.Net.EventRepository.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventSourcing.AspNetCore\Slick.Net.EventSourcing.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventSourcing\Slick.Net.EventSourcing.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventSubscription.AspNetCore\Slick.Net.EventSubscription.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventSubscription.EventStore.AspNetCore\Slick.Net.EventSubscription.EventStore.AspNetCore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventSubscription.EventStore\Slick.Net.EventSubscription.EventStore.csproj" />
+    <ProjectReference Include="..\..\..\..\src\Slick.Net.EventSubscription\Slick.Net.EventSubscription.csproj" />
+    <ProjectReference Include="..\..\..\..\test\Slick.Net.Core.Test.Unit\Slick.Net.Core.Test.Unit.csproj" />
     <ProjectReference Include="..\..\test\Questionable.Questions.Test.Unit\Questionable.Questions.Test.Unit.csproj" />
     <ProjectReference Include="..\Questionable.Infrastructure.Repository.Core\Questionable.Infrastructure.Repository.Core.csproj" />
     <ProjectReference Include="..\Questionable.Infrastructure.Repository.Memory\Questionable.Infrastructure.Repository.Memory.csproj" />

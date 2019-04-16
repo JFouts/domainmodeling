@@ -1,5 +1,5 @@
 ﻿using System;
-using DomainModeling.Core.Interfaces;
+using Slick.Net.Core.Interfaces;
 
 namespace Questionable.Questions.Events.Events
 {

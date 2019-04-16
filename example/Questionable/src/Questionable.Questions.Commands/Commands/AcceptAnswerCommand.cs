@@ -1,5 +1,5 @@
 ﻿using System;
-using DomainModeling.Core;
+using Slick.Net.Core;
 
 namespace Questionable.Questions.Commands.Commands
 {

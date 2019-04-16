@@ -1,4 +1,4 @@
-﻿using DomainModeling.EventSubscription;
+﻿using Slick.Net.EventSubscription;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Questionable.Startup.System

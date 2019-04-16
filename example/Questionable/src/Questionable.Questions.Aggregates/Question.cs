@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using DomainModeling.Core;
+using Slick.Net.Core;
 
 namespace Questionable.Questions.Aggregates
 {

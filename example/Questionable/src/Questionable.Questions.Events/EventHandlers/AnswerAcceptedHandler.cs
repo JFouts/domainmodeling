@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 using System.Threading.Tasks;
-using DomainModeling.EventSourcing;
+using Slick.Net.EventSourcing;
 using Questionable.Questions.Aggregates;
 using Questionable.Questions.Events.Events;
 

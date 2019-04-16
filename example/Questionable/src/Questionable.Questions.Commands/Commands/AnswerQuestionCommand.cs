@@ -1,7 +1,7 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using DomainModeling.Core;
-using DomainModeling.Core.ValidationAnnotations;
+using Slick.Net.Core;
+using Slick.Net.Core.ValidationAnnotations;
 
 namespace Questionable.Questions.Commands.Commands
 {
